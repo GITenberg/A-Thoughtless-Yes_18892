@@ -1,0 +1,32 @@
+_repo: A-Thoughtless-Yes_18892
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gardener, Helen H. (Helen Hamilton)
+    alias: Chenoweth, Alice
+    birthdate: 1853
+    deathdate: 1925
+    gutenberg_agent_id: '34434'
+    url: http://www.gutenberg.org/2009/agents/34434
+description: ''
+gutenberg_issued: '2013-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18892'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'Fiction'
+- !lcc 'PS'
+tableOfContents: An open letter -- A splendid judge of a woman -- The lady of the
+  club -- Under protest -- For the prosecution -- A rusty link in the chain -- The
+  Boler House mystery -- The time lock of our ancestors -- Forence Campbell's fate
+  -- My patient's story.
+title: A Thoughtless Yes
+url: http://www.gutenberg.org/ebooks/18892
